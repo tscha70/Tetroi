@@ -15,6 +15,9 @@
 //  You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+// This project was inspired by FamTrinli's channel on YouTube: https://www.youtube.com/@FamTrinli
+// and his kindly provided source code in the video description.
+
 #include <Arduboy2.h>
 #include <ArduboyTones.h>
 #include <EEPROM.h>
