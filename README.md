@@ -13,6 +13,6 @@
 ![new highscore](new_highscore.png)
 
 ### Highscore:
-![highscore_display.png]
+![highscore display](highscore_display.png)
 
 
