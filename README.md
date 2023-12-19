@@ -7,7 +7,7 @@
 ![intro](intro_screen.png)
 
 ### Game Play:
-![gampe_play](game_play.png)
+![game_play](gampe_play.png)
 
 ### New Highscore:
 ![new highscore](new_highscore.png)
