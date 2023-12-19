@@ -5,3 +5,5 @@ Screenshots:
 
 https://github.com/tscha70/Tetroi
 ![gameplay](https://github.com/tscha70/Tetroi/blob/main/gampe_play.png)
+
+![intro](intro_screen.png)
