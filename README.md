@@ -1,18 +1,18 @@
 # Tetroi
-An Arduboy clone of a very well known and successful game from the 80's
+## An Arduboy clone of a very well known and successful game from the 80's
 
-Screenshots:
-<div>
+## Screenshots:
+
+### Intro Screen:
 ![intro](intro_screen.png)
-</div>
 
-<p></p>
+### Game Play:
 ![gameplay](game_play.png)
 
-<br/>
+### New Highscore:
 ![new highscore](new_highscore.png)
 
-<p></p>
+### Highscore:
 ![highscore_display.png]
 
 
