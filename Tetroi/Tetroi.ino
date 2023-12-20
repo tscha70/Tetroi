@@ -1,4 +1,4 @@
-//   >>>>> Tetroi version 1 for ARDUBOY  GPLv3 <<<<
+//   >>>>> Tetroi Version 1.0 for ARDUBOY  GPLv3 <<<<
 //         Programmer: (c) Roger Buehler 2023
 //         Contact EMAIL: tscha70@gmail.com
 //         Official repository:  https://github.com/tscha70/
@@ -17,6 +17,8 @@
 
 // This project was inspired by FamTrinli's channel on YouTube: https://www.youtube.com/@FamTrinli
 // and his kindly provided source code in the video description.
+
+// The victory sound on new highscore is strongly related to the intro sound from FlappyBall by Chris Martinez and Scott Allen
 
 #include <Arduboy2.h>
 #include <ArduboyTones.h>
