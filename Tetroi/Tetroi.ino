@@ -28,7 +28,7 @@
 Arduboy2 arduboy;
 ArduboyTones sound(arduboy.audio.enabled);
 
-#define PROGRAM_VERSION 1 // next version would be 2, 3, 4.. and so on
+#define PROGRAM_VERSION 2 // next version would be 2, 3, 4.. and so on
 #define M 18
 #define N 10
 #define frameOffset 102
@@ -383,7 +383,7 @@ void CHECK_FOR_COMPLETE_LINES() {
   }
   int k = M - 1;
   int numOfLines = 0;
-  for (int i = M - 1; i > 0; i--) {
+  for (int i = M - 1; i >= 0; i--) {
     int count = 0;
     for (int j = 0; j < N; j++) {
       if (field[i][j]) count++;
