@@ -1,6 +1,6 @@
 # Tetroi
 ## An Arduboy clone of a very well known and successful game from the 80's
-
+Version Tetroi-10 is so far the best with the least bugs and the best gameplay
 ## Screenshots:
 
 ### Intro Screen:
