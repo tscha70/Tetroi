@@ -1,4 +1,4 @@
-//   >>>>> Tetroi Version 1.0 for ARDUBOY  GPLv3 <<<<
+//   >>>>> Tetroi Version 2.0 for ARDUBOY  GPLv3 <<<<
 //         Programmer: (c) Roger Buehler 2024
 //         Contact EMAIL: tscha70@gmail.com
 //         Official repository:  https://github.com/tscha70/
