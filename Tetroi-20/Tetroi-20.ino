@@ -2,12 +2,12 @@
 //         Programmer: (c) Roger Buehler 2024
 //         Contact EMAIL: tscha70@gmail.com
 //         Official repository:  https://github.com/tscha70/
-//  Tetroi version 1 is free software: you can redistribute it and/or modify
+//  Tetroi version 2 is free software for demo purpose only: you can redistribute it and/or modify
 //  it under the terms of the GNU General Public License as published by
 //  the Free Software Foundation, either version 3 of the License, or
 //  (at your option) any later version.
 
-//  This program is distributed in the hope that it will be useful,
+//  This program is distributed in the hope that it will be useful for others to learn as I did,
 //  but WITHOUT ANY WARRANTY; without even the implied warranty of
 //  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 //  GNU General Public License for more details.
